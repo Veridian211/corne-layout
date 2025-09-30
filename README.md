@@ -1,2 +1,4 @@
 # corne-layout
-Corne Keyboard Layout
+
+- [Vial Konfigurator](https://vial.rocks/)
+- [Keymap Tester](https://usevia.app/test)
