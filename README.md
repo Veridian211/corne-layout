@@ -22,7 +22,7 @@ Keyboard is the [Corne Choc Pro from Keebart](https://www.keebart.com/de/produkt
 
 ## Configure the device
 
-- [Vial Konfigurator](https://vial.rocks/)
+- [Vial Konfigurator](https://vial.rocks/) (Only works for chromium based browsers)
 - [Keymap Tester](https://usevia.app/test)
 
 ### Allow device access on linux
