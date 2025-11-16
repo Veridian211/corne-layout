@@ -20,6 +20,15 @@ Keyboard is the [Corne Choc Pro from Keebart](https://www.keebart.com/de/produkt
 
 ![Layer 3](/images/Layer_3.png)
 
+*Layer 4*
+
+![Layer 4](/images/Layer_4.png)
+
+*Layer 5*
+
+![Layer 5](/images/Layer_5.png)
+
+
 ## Configure the device
 
 - [Vial Konfigurator](https://vial.rocks/) (Only works for chromium based browsers)
